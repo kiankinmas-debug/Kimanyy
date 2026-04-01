@@ -1,0 +1,2 @@
+# Kimanyy
+Script para Roblox 
